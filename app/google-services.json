@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472530465006",
+    "firebase_url": "https://introfirestore-48246.firebaseio.com",
+    "project_id": "introfirestore-48246",
+    "storage_bucket": "introfirestore-48246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472530465006:android:288a7e42e47b9989df43ff",
+        "android_client_info": {
+          "package_name": "com.osloutvikler.introfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472530465006-lihdfg0m2civafihuiv1sosnrfiqesbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIOvGnBpi48h7nDB2ObB3nah8BaLibft0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472530465006-lihdfg0m2civafihuiv1sosnrfiqesbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
